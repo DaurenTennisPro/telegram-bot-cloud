@@ -1,0 +1,14 @@
+
+ {
+  "type": "service_account",
+  "project_id": "kazinvest-voice-bot",
+  "private_key_id": "a572431062ce08462aa47c7f3d8153c091f2afa9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDX9C6LE83exJ+n\nKuJ1l5584++zay64YXt83gQIlCxHWrnDqEvAgYFKAkSihPqeZHq8/DJohIYaykw7\nFscrRpunf6AGGJfYLhF6E9fDQDa0dabtSXScuNfEXfzudvTFFaKlErTdHRMiHp8k\nUC4QsxtHDTCCMc8BtdYDp/QxOngu9jJ5ckFguky+HdiF3e/6jtG+W+/K4B8N785H\nBVelCofE9o0UgX9PiHoyDpQkNoO0VdCJALqS2dOi5zQkwVB8t0oDKORLvDaiWB6y\nWiXCA3honH0lKNOVUoPIIqaTKA2947nuQFUqHSAjiuFDQq1a6fgFNSc/qnup2ilm\nMrB8Wm2/AgMBAAECggEACpDdaBuXcoNPRmgQPW2mKPkkBLTFS+slFhZsvxi00+bp\n+Ns2nZwYfcz/m64C7xX+dVmng7qcLxpfwXJbW1AwlHDnnPS+FSsn2r+2ykxNgOXS\nvYBfDr3yfJ6Wnfo+/peQ5h+0rq7Z/UzfP3EW1+VTe9X23h/ev3gsmPAyP+ha8f0t\nt3nKuP7x5Ht623iVMO6aoH6VPQPEE2Ds7qVH80swbYTjjkK6z7XTL/kG4HUaYIzv\n3EU0S1YnvKWVsuLUCt17xvkYN6UrmPzkVgqBSh3IYZ+KsUdT5wxj48Lxr6kr6vlY\ndM2XgkriwQvv2HBGRat0jtRELCqZsvsjgn+Ezib9qQKBgQDuHY2uJOhZFY1m/KNu\nlQKzWUMvrwJuGbVlR/ZYivjRKek2T3sMiCARbBuH7UhJ7ZIQ+w858ocnxYsUHlMM\nfSJQ2uTxS/crd7dne4q049DjK6ZXS2nvFtf3eU1eCmp3fP4azo7bHnNO+yt3S4ry\n4MTQ+T32GWdOlRJOK7vH3uwK2QKBgQDoLIIovzhF23iVtN1clxpikYyyP8rsD/jC\nNZxXefF7JlgFcV9NVvw8uApfU7a2MQDzePDbzDzeqEgtj1m2jNpXSiB8a7grm6Oa\nmPvN6MU0j+EV24AgJI7U8sDjkiIEQidA+668wmFwuBDIRBzn8wBeeK3H7bcmukHt\n3A3RXlXuVwKBgCKyr8imnC0PFPHi8rXUhPY5la7HI+WDXYmKuP0iEyv3nYJKhrXG\nyFWBmWlvTE9pjRVoYEmja8qB4MhnutZhDbUWkLIQzc3JvjIYMJg3cmMII08pMCCl\nBYeMZ5fCkM0kq6qgWvTXNRpXQ3g4y+CknEmPaFYKUaGD240ElnKDq4XRAoGBAJOt\nq+TrLIoSvbLL5nm8i0XjOtEujo504k/19coWgKlKjHZ51JrHF44vqjlUcEWXCfnU\nFbBZSuZ9t9ty8SeSlFctiVha1Dy4tOnjIVeqFbYHRq62fdr0Jf4BovuduhFnWryU\n2mKqaXxfOB2KZbCL+tIchL1E0VjK5KC9dfSUwqflAoGAEcQvoon/aVBYJGoPVYs1\nQ7mv26O/4PrW8poxl1xaqrBZ/SeTYQxxhZSXrRoXFo2RSXYnTGqdw/xZP4udqRNs\ndZOrbmFB+mgWniyJ76USlGy3O/FtJZ0POAfFJs8rKt56FBRNyxR2CM2NsXmP7Mem\njyctmiPD43G01dlDBPm5LA0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voice-assistant-bot@kazinvest-voice-bot.iam.gserviceaccount.com",
+  "client_id": "110723882799675783976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voice-assistant-bot%40kazinvest-voice-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
